@@ -1,0 +1,13 @@
+初始化：     git init
+
+
+绑定：       git remote add origin git@github.com:linvic/blog.git
+
+
+push上去：   git push -u origin master
+
+
+
+本地 git  add   index.html
+
+     git commit -m "xxxxx"
